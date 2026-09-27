@@ -1,0 +1,6 @@
+{
+  "name": "Falkirk Fences",
+  "description": "Falkirk Fences provides garden fencing, garden buildings, garden rooms, decking and landscaping services in Falkirk, with 30 years of experience. Free estimates and no deposit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
